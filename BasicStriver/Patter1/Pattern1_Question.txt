@@ -1,5 +1,11 @@
+Pattern-1: Rectangular Star Pattern
 * * * * *
 * * * * *
 * * * * *
 * * * * *
-* * * * *
+
+Pattern-2: Right-Angled Triangle Pattern
+*
+* *
+* * *
+* * * *
