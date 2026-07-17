@@ -36,3 +36,24 @@ Pattern - 7: Star Pyramid
      * * *
    * * * * *
  * * * * * * *
+Pattern - 8: Inverted Star Pyramid
+ * * * * * * *
+   * * * * *
+     * * *
+       *
+Pattern - 9: Diamond Star Pattern
+       *
+     * * *
+   * * * * *
+ * * * * * * *
+   * * * * *
+     * * *
+       *
+Pattern - 10: Half Diamond Star Pattern
+*
+* *
+* * *
+* * * *
+* * *
+* *
+*
