@@ -1,0 +1,37 @@
+Pattern-1: Rectangular Star Pattern
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+
+Pattern-2: Right-Angled Triangle Pattern
+*
+* *
+* * *
+* * * *
+Pattern - 3: Right-Angled Number Pyramid
+1
+1 2
+1 2 3
+1 2 3 4
+Pattern - 4: Right-Angled Number Pyramid - II
+1
+2 2
+3 3 3
+4 4 4 4
+Pattern-5: Inverted Right Pyramid
+* * * * 
+* * *
+* *
+*
+Pattern - 6: Inverted Numbered Right Pyramid
+1 2 3 4 5
+1 2 3 4
+1 2 3
+1 2
+1
+Pattern - 7: Star Pyramid
+       *
+     * * *
+   * * * * *
+ * * * * * * *
