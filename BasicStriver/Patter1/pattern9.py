@@ -12,11 +12,9 @@
         #print("*",end="") 
     #print("\n",end="")
 
-n = int(input())
-# Upper half
-for i in range(n):
-    print(" " * (n - i) + "*" * (2 * i + 1))
+a = int(input())
 
-# Lower half
-for i in range(n):
-    print(" " * (i + 1) + "*" * (2 * (n - i - 1) + 1))
+for i in range(a):
+    print(" "*(a-i)+"*"*(2*i+1))
+for i in range(a):
+    print(" "*(i+1)+"*"*(2*(a-i-1)+1))
