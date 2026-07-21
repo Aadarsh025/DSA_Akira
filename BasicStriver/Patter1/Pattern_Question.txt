@@ -68,3 +68,35 @@ Pattern - 12: Number Crown Pattern
 1 2          2 1
 1 2 3      3 2 1
 1 2 3 4  4 3 2 1
+Pattern - 13: Increasing Number Triangle Pattern
+1
+2 3
+4 5 6 
+7 8 9 10
+Pattern-14: Increasing Letter Triangle Pattern
+A
+A B
+A B C
+A B C D 
+Pattern-15: Reverse Letter Triangle Pattern
+A B C D 
+A B C 
+A B 
+A 
+
+Track
+Command Palette
+Search for a command to run...
+
+Blog
+Discussion
+Pattern - 16: Alpha-Ramp Pattern
+A 
+B B 
+C C C
+D D D D 
+Pattern - 17: Alpha-Hill Pattern
+       A 
+     A B A 
+   A B C B A 
+ A B C D C B A 
